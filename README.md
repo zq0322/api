@@ -19,16 +19,15 @@
 
 
 ## 首页的二级目录
-
-###	    <a href="https://github.com/76351506/api/tree/master/docs/es6" target="_blank">es6</a>
-###	  	<a href="https://github.com/76351506/api/tree/master/docs/guide" target="_blank">guide</a>
-###		<a href="https://github.com/76351506/api/tree/master/docs/miniProgram" target="_blank">miniProgram</a>
-###	    <a href="https://github.com/76351506/api/tree/master/docs/nodejs" target="_blank">nodejs</a>
-###	    <a href="https://github.com/76351506/api/tree/master/docs/react" target="_blank">react</a>
-###		<a href="https://github.com/76351506/api/tree/master/docs/redux" target="_blank">redux</a>
-###	 	<a href="https://github.com/76351506/api/tree/master/docs/vuejs" target="_blank">vuejs</a>
-###		<a href="https://github.com/76351506/api/tree/master/docs/webpack" target="_blank">webpack</a>
-###		<a href="https://github.com/76351506/api/tree/master/docs/wepy" target="_blank">wepy</a>
+	[es6](https://github.com/76351506/api/tree/master/docs/es6)
+	[guide](https://github.com/76351506/api/tree/master/docs/guide)
+	[miniProgram](https://github.com/76351506/api/tree/master/docs/miniProgram)
+	[nodejs](https://github.com/76351506/api/tree/master/docs/nodejs)
+	[react](https://github.com/76351506/api/tree/master/docs/react)
+	[redux](https://github.com/76351506/api/tree/master/docs/redux)
+	[vuejs](https://github.com/76351506/api/tree/master/docs/vuejs)
+	[webpack](https://github.com/76351506/api/tree/master/docs/webpack)
+	[wepy](https://github.com/76351506/api/tree/master/docs/wepy)
 
 * git 仓库：https://github.com/docschina
 * 群聊：https://docschina.org/talk
