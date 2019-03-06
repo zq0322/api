@@ -21,7 +21,7 @@
 * gitter：https://gitter.im/docschina
 * slack：https://docschina.slack.com/
 
-## 首页的二级目录
+<h2 align="center">首页的二级目录</h2>
 
 *	[es6](https://github.com/76351506/api/tree/master/docs/es6)
 *	[guide](https://github.com/76351506/api/tree/master/docs/guide)
